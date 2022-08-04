@@ -50,6 +50,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-19
+  x86_64-linux
 
 DEPENDENCIES
   activerecord (~> 6.1)
@@ -58,7 +59,7 @@ DEPENDENCIES
   pry
   rake
   rspec
-  sqlite3 (~> 1.4)
+  sqlite3 (~> 1.4.2)
 
 BUNDLED WITH
    2.2.23
